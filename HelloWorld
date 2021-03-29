@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main (){
+int main ()
+{
  std::string ima; 
  std:: cin>>ima;//Enter your name
  std::cout<<"Hello world"<<ima<<std::endl;//Output Helloworld and your name
