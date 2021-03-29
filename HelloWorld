@@ -2,8 +2,8 @@
 
 int main (){
  std::string ima; 
- std:: cin>>ima;//Вводим имя
- std::cout<<"Hello world"<<ima<<std::endl;//Выводим Helloworld и имя
+ std:: cin>>ima;//Enter your name
+ std::cout<<"Hello world"<<ima<<std::endl;//Output helloworld and your name
  return 0;
 }
 
