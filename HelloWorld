@@ -1,9 +1,8 @@
 #include <iostream>
 
-int main() 
-{
+int main() {
   std::string ima;
-  std::cin >> ima;//Вводим имя
-  std::cout << "Hello world" << ima<< std::endl;//Выводится Helloworld и имя
+  std:: cin>>ima;//Вводим имя
+  std::cout<<"Hello world" << ima<<std::endl;//Выводим Helloworld и имя
   return 0;
 }
